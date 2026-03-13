@@ -15,7 +15,7 @@ The intention of this repository is to:
 The repository structure will contain **7 folders**, where each folder will contain topic files in ranges such as:
 
 
-
+```
 01_topics_1_10
 02_topics_11_20
 03_topics_21_30
@@ -24,7 +24,7 @@ The repository structure will contain **7 folders**, where each folder will cont
 06_topics_51_60
 07_topics_61_71
 ```
-```
+
 
 Each file will correspond to a **single exam guide topic** for detailed notes and explanations.
 
