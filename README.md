@@ -15,7 +15,7 @@ The intention of this repository is to:
 The repository structure will contain **7 folders**, where each folder will contain topic files in ranges such as:
 
 
-```
+
 01_topics_1_10
 02_topics_11_20
 03_topics_21_30
